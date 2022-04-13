@@ -100,12 +100,9 @@ def get_products_data(url, products_links):
 def write_data_in_csv_file(pages_links):
     for i in range(0, len(pages_links)):
         product_links = get_products_links(url + pages_links[i])
-        print("\nPAGE {} content\n".format(i+1))
         products_data = get_products_data(url, product_links)
 
         with open("jd_baskets_data.csv", 'a+', encoding="UTF-8", newline='') as f:
-            p = "\nPAGE {}\n".format(i+1)
-            f.write(p)
             writer = csv.writer(f, delimiter='\n')
             writer.writerow(products_data)
 
