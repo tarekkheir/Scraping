@@ -1,1 +1,1 @@
-Scraping side projects Repository to work on it in my free time.
+Scraping side projects Repository.
