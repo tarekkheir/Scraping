@@ -1,0 +1,82 @@
+{
+    "Nike": {
+        "quantity": 129,
+        "average_price": 124.42
+    },
+    "Vans": {
+        "quantity": 27,
+        "average_price": 79.81
+    },
+    "FredPerry": {
+        "quantity": 3,
+        "average_price": 86.67
+    },
+    "Jordan": {
+        "quantity": 15,
+        "average_price": 112.0
+    },
+    "EmporioArmaniEA7": {
+        "quantity": 19,
+        "average_price": 165.0
+    },
+    "UnderArmour": {
+        "quantity": 3,
+        "average_price": 116.67
+    },
+    "adidas": {
+        "quantity": 293,
+        "average_price": 98.91
+    },
+    "BOSS": {
+        "quantity": 15,
+        "average_price": 197.33
+    },
+    "Lacoste": {
+        "quantity": 12,
+        "average_price": 86.25
+    },
+    "Puma": {
+        "quantity": 26,
+        "average_price": 82.31
+    },
+    "NewBalance": {
+        "quantity": 37,
+        "average_price": 99.05
+    },
+    "Fila": {
+        "quantity": 25,
+        "average_price": 45.4
+    },
+    "Converse": {
+        "quantity": 23,
+        "average_price": 79.13
+    },
+    "Asics": {
+        "quantity": 16,
+        "average_price": 135.31
+    },
+    "Salomon": {
+        "quantity": 1,
+        "average_price": 140.0
+    },
+    "Onrunning": {
+        "quantity": 5,
+        "average_price": 164.0
+    },
+    "Napapijri": {
+        "quantity": 7,
+        "average_price": 108.57
+    },
+    "McKenzie": {
+        "quantity": 17,
+        "average_price": 43.82
+    },
+    "Birkenstock": {
+        "quantity": 1,
+        "average_price": 135.0
+    },
+    "Reebok": {
+        "quantity": 24,
+        "average_price": 87.92
+    }
+}
